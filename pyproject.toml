@@ -7,9 +7,9 @@ package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.13"
-aiogram = "^3.0.0b7"
-python-dotenv = "^1.0.0"
-aiosqlite = "^0.20.1"
+aiogram = "*"
+python-dotenv = "*"
+aiosqlite = "*"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
