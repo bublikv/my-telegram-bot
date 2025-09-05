@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "my-telegram-bot-67485435"
+version = "0.1.0"
+description = "Telegram bot project"
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.13"
+aiogram = "^3.0.0b7"
+python-dotenv = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
