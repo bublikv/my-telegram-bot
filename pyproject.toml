@@ -9,6 +9,7 @@ package-mode = false
 python = "^3.13"
 aiogram = "^3.0.0b7"
 python-dotenv = "^1.0.0"
+aiosqlite = "^0.20.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
