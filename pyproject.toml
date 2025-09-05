@@ -3,6 +3,7 @@ name = "my-telegram-bot-67485435"
 version = "0.1.0"
 description = "Telegram bot project"
 authors = ["Your Name <you@example.com>"]
+packages = []
 
 [tool.poetry.dependencies]
 python = "^3.13"
